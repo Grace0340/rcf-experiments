@@ -1,0 +1,5 @@
+# Separate environment for E13 only (UTide 0.4.0 requires NumPy >= 2). Python 3.12.
+torch
+numpy>=2
+pandas
+utide==0.4.0

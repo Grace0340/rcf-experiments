@@ -1,0 +1,6 @@
+CycleNet/
+data/
+results/
+logs/
+__pycache__/
+*.pyc

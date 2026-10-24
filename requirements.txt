@@ -1,0 +1,7 @@
+# Main environment (official CycleNet code and all experiments except E13). Python 3.12.
+# torch: install a CUDA build matching your driver; the exact version used was not recorded.
+torch
+numpy==1.26.4
+pandas
+scikit-learn
+matplotlib
